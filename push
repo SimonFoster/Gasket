@@ -1,0 +1,5 @@
+git init
+git add .
+got commit -m "First Commit"
+git remote add origin git@github.com:SimonFoster/Gasket.git
+git push -u origin master
